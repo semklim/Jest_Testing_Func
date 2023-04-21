@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1678126824875" clover="3.2.0">
+  <project timestamp="1678126824875" name="All files">
+    <metrics statements="2" coveredstatements="2" conditionals="22" coveredconditionals="13" methods="6" coveredmethods="5" elements="30" coveredelements="20" complexity="0" loc="2" ncloc="2" packages="1" files="1" classes="1"/>
+    <file name="multiply.js" path="C:\Users\roman\OneDrive\Робочий стол\Jest2\multiply.js">
+      <metrics statements="2" coveredstatements="2" conditionals="22" coveredconditionals="13" methods="6" coveredmethods="5"/>
+      <line num="1" count="15" type="cond" truecount="13" falsecount="9"/>
+      <line num="3" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
